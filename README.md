@@ -75,10 +75,10 @@ Saved using `joblib` to ensure consistent inference.
 
 ## Project Structure
 
-├── train_who_nn.py
-├── who_performance_status_nn.joblib
-├── README.md
-└── LICENSE
+── train_who_nn.py
+── who_performance_status_nn.joblib
+── README.md
+── LICENSE
 
 ---
 
